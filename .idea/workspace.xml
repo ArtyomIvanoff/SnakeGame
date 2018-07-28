@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-<<<<<<< HEAD
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/src/main/java/com/mysnake/app/SnakeGame.java" line="16" />
   </component>
@@ -8,24 +7,12 @@
     <list default="true" id="1e8b9baa-82ea-4037-bb01-1a29e6f7739c" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-=======
-  <component name="ArtifactsWorkspaceSettings">
-    <artifacts-to-build>
-      <artifact name="snake" />
-    </artifacts-to-build>
-  </component>
-  <component name="ChangeListManager">
-    <list default="true" id="4ccb6119-131e-41d8-aa29-dd22d6989586" name="Default" comment="" />
-    <ignored path="SnakeGame.iws" />
-    <ignored path=".idea/workspace.xml" />
->>>>>>> 653ef5ef518463a726738358cc353346a711fce2
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-<<<<<<< HEAD
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="spring.xml" pinned="false" current-in-tab="false">
@@ -43,32 +30,11 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="29" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="30" />
-=======
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
-  <component name="CreatePatchCommitExecutor">
-    <option name="PATCH_PATH" value="" />
-  </component>
-  <component name="DaemonCodeAnalyzer">
-    <disable_hints />
-  </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
-  <component name="FavoritesManager">
-    <favorites_list name="SnakeGame" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Farn.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Farn/Farn.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="493">
-              <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
->>>>>>> 653ef5ef518463a726738358cc353346a711fce2
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-<<<<<<< HEAD
       <file leaf-file-name="SnakePanel.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/mysnake/app/view/SnakePanel.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -86,19 +52,11 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="693">
               <caret line="33" column="73" lean-forward="false" selection-start-line="33" selection-start-column="73" selection-end-line="33" selection-end-column="73" />
-=======
-      <file leaf-file-name="SnakePanel.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/snake/SnakePanel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.858108" vertical-offset="3641" max-vertical-offset="4590">
-              <caret line="49" column="108" selection-start-line="49" selection-start-column="108" selection-end-line="49" selection-end-column="108" />
->>>>>>> 653ef5ef518463a726738358cc353346a711fce2
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-<<<<<<< HEAD
       <file leaf-file-name="Snake.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/mysnake/app/model/Snake.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -128,13 +86,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="231">
               <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-=======
-      <file leaf-file-name="JComponent.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/javax/swing/JComponent.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="28135" max-vertical-offset="95030">
-              <caret line="1655" column="21" selection-start-line="1655" selection-start-column="21" selection-end-line="1655" selection-end-column="21" />
->>>>>>> 653ef5ef518463a726738358cc353346a711fce2
               <folding />
             </state>
           </provider>
@@ -142,7 +93,6 @@
       </file>
     </leaf>
   </component>
-<<<<<<< HEAD
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -200,47 +150,12 @@
       </MavenImportingSettings>
     </option>
   </component>
-=======
-  <component name="FindManager">
-    <FindUsagesManager>
-      <setting name="OPEN_NEW_TAB" value="true" />
-    </FindUsagesManager>
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="changedFiles">
-      <list>
-        <option value="$PROJECT_DIR$/src/snake/SnakeGame.java" />
-        <option value="$PROJECT_DIR$/src/Farn/Fern.java" />
-        <option value="$PROJECT_DIR$/src/Farn/FernPanel.java" />
-        <option value="$PROJECT_DIR$/src/Farn/Farn.java" />
-        <option value="$PROJECT_DIR$/src/Farn/FarnPanel.java" />
-        <option value="$PROJECT_DIR$/src/snake/SnakePanel.java" />
-      </list>
-    </option>
-  </component>
->>>>>>> 653ef5ef518463a726738358cc353346a711fce2
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
-<<<<<<< HEAD
-=======
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
-  </component>
-  <component name="ProjectReloadState">
-    <option name="STATE" value="0" />
-  </component>
->>>>>>> 653ef5ef518463a726738358cc353346a711fce2
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -252,7 +167,6 @@
       <autoscrollToSource />
       <autoscrollFromSource />
       <sortByType />
-<<<<<<< HEAD
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
@@ -332,68 +246,6 @@
       <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
-=======
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SnakeGame" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SnakeGame" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SnakeGame" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SnakeGame" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SnakeGame" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="snake" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SnakeGame" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SnakeGame" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Farn" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
->>>>>>> 653ef5ef518463a726738358cc353346a711fce2
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -403,7 +255,6 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-<<<<<<< HEAD
     <property name="options.lastSelected" value="vcs.Mercurial" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
@@ -437,19 +288,6 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.mysnake.app.SnakeGame" />
-=======
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="FullScreen" value="false" />
-    <property name="recentsLimit" value="5" />
-    <property name="dynamic.classpath" value="false" />
-  </component>
-  <component name="RunManager" selected="Application.SnakeGame">
-    <configuration default="false" name="SnakeGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="snake.SnakeGame" />
->>>>>>> 653ef5ef518463a726738358cc353346a711fce2
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -458,7 +296,6 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-<<<<<<< HEAD
       <module name="my-snake" />
       <envs />
     </configuration>
@@ -473,16 +310,6 @@
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
-=======
-      <module name="SnakeGame" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Farn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Farn.Farn" />
->>>>>>> 653ef5ef518463a726738358cc353346a711fce2
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -491,7 +318,6 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-<<<<<<< HEAD
       <module name="" />
       <envs />
     </configuration>
@@ -514,44 +340,12 @@
       </option>
       <envs />
       <patterns />
-=======
-      <module name="SnakeGame" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
->>>>>>> 653ef5ef518463a726738358cc353346a711fce2
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
-<<<<<<< HEAD
       <predefined_log_file id="idea.log" enabled="true" />
-=======
-      <method />
-    </configuration>
-    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
-      <module name="" />
-      <option name="TESTING_TYPE" value="0" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="USE_COMMAND_LINE" value="true" />
-      <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="false" />
-      <option name="DISABLE_BOOT_ANIMATION" value="false" />
-      <option name="NETWORK_SPEED" value="full" />
-      <option name="NETWORK_LATENCY" value="none" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
-      <method />
->>>>>>> 653ef5ef518463a726738358cc353346a711fce2
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
@@ -559,28 +353,9 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
-<<<<<<< HEAD
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-=======
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
->>>>>>> 653ef5ef518463a726738358cc353346a711fce2
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -605,7 +380,6 @@
       <envs />
       <properties />
       <listeners />
-<<<<<<< HEAD
     </configuration>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
@@ -619,91 +393,12 @@
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
-=======
-      <method />
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
-      <module name="" />
-      <option name="ACTIVITY_CLASS" value="" />
-      <option name="MODE" value="default_activity" />
-      <option name="DEPLOY" value="true" />
-      <option name="ARTIFACT_NAME" value="" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="USE_COMMAND_LINE" value="true" />
-      <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="false" />
-      <option name="DISABLE_BOOT_ANIMATION" value="false" />
-      <option name="NETWORK_SPEED" value="full" />
-      <option name="NETWORK_LATENCY" value="none" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
-      <method />
-    </configuration>
-    <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="Application.SnakeGame" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Farn" />
-    </list>
-    <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Application.SnakeGame" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Farn" />
-      </list>
-    </recent_temporary>
-    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
-      <Host>localhost</Host>
-      <Port>5050</Port>
-    </configuration>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false" />
-  <component name="SliceManager">
-    <option name="analysisUIOptions">
-      <AnalysisUIOptions />
-    </option>
->>>>>>> 653ef5ef518463a726738358cc353346a711fce2
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-<<<<<<< HEAD
       <changelist id="1e8b9baa-82ea-4037-bb01-1a29e6f7739c" name="Default" comment="" />
       <created>1531311337930</created>
       <option name="number" value="Default" />
@@ -758,55 +453,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-=======
-      <changelist id="4ccb6119-131e-41d8-aa29-dd22d6989586" name="Default" comment="" />
-      <created>1449153433793</created>
-      <updated>1449153433793</updated>
-    </task>
-    <servers />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-    </layout>
-  </component>
-  <component name="Vcs.Log.UiProperties">
-    <option name="RECENTLY_FILTERED_USER_GROUPS">
-      <collection />
-    </option>
-    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-      <collection />
-    </option>
->>>>>>> 653ef5ef518463a726738358cc353346a711fce2
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-<<<<<<< HEAD
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <option name="time" value="1" />
@@ -836,45 +486,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="19" column="23" lean-forward="false" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
-=======
-  <component name="VcsManagerConfiguration">
-    <option name="myTodoPanelSettings">
-      <TodoPanelSettings />
-    </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-  </component>
-  <component name="antWorkspaceConfiguration">
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
-    <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Farn/Farn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
-          <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
->>>>>>> 653ef5ef518463a726738358cc353346a711fce2
           <folding />
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/resources/spring.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-=======
-    <entry file="file://$PROJECT_DIR$/src/snake/SnakePanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2329" max-vertical-offset="4794">
-          <caret line="137" column="32" selection-start-line="135" selection-start-column="3" selection-end-line="138" selection-end-column="5" />
->>>>>>> 653ef5ef518463a726738358cc353346a711fce2
           <folding />
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mysnake/app/aspect/HTMLFormatter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -902,49 +525,28 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="24" column="19" lean-forward="false" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
-=======
-    <entry file="file://$PROJECT_DIR$/src/Farn/FarnPanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="1717">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
->>>>>>> 653ef5ef518463a726738358cc353346a711fce2
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mysnake/app/aspect/SnakeLog.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="2" column="99" lean-forward="false" selection-start-line="2" selection-start-column="99" selection-end-line="2" selection-end-column="99" />
-=======
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/javax/swing/JComponent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="28135" max-vertical-offset="95030">
-          <caret line="1655" column="21" selection-start-line="1655" selection-start-column="21" selection-end-line="1655" selection-end-column="21" />
->>>>>>> 653ef5ef518463a726738358cc353346a711fce2
           <folding />
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mysnake/app/SnakeGame.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="19" column="49" lean-forward="true" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
-=======
-    <entry file="file://$PROJECT_DIR$/src/Farn/Farn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="493">
-          <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
->>>>>>> 653ef5ef518463a726738358cc353346a711fce2
           <folding />
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/resources/msgs.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -956,57 +558,28 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2604">
           <caret line="146" column="30" lean-forward="true" selection-start-line="146" selection-start-column="30" selection-end-line="146" selection-end-column="30" />
-=======
-    <entry file="file://$PROJECT_DIR$/src/snake/SnakePanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2329" max-vertical-offset="4794">
-          <caret line="137" column="32" selection-start-line="135" selection-start-column="3" selection-end-line="138" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Farn/FarnPanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="837" max-vertical-offset="1734">
-          <caret line="94" column="29" selection-start-line="94" selection-start-column="29" selection-end-line="94" selection-end-column="29" />
->>>>>>> 653ef5ef518463a726738358cc353346a711fce2
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-=======
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/javax/swing/JComponent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="28135" max-vertical-offset="95030">
-          <caret line="1655" column="21" selection-start-line="1655" selection-start-column="21" selection-end-line="1655" selection-end-column="21" />
->>>>>>> 653ef5ef518463a726738358cc353346a711fce2
           <folding />
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/resources/spring.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1218">
           <caret line="58" column="8" lean-forward="false" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="8" />
-=======
-    <entry file="file://$PROJECT_DIR$/src/Farn/Farn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="493">
-          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
->>>>>>> 653ef5ef518463a726738358cc353346a711fce2
           <folding />
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mysnake/app/model/Snake.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
@@ -1021,27 +594,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-=======
-    <entry file="file://$PROJECT_DIR$/src/snake/SnakePanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2329" max-vertical-offset="4794">
-          <caret line="137" column="32" selection-start-line="135" selection-start-column="3" selection-end-line="138" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Farn/FarnPanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="1785">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
->>>>>>> 653ef5ef518463a726738358cc353346a711fce2
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/log04.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1053,42 +611,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-=======
-    <entry file="file://$PROJECT_DIR$/src/Farn/Farn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="493">
-          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/snake/SnakePanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2329" max-vertical-offset="4794">
-          <caret line="137" column="32" selection-start-line="135" selection-start-column="3" selection-end-line="138" selection-end-column="5" />
->>>>>>> 653ef5ef518463a726738358cc353346a711fce2
-          <folding />
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mysnake/app/model/Food.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
           <caret line="44" column="5" lean-forward="false" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
-=======
-    <entry file="file://$PROJECT_DIR$/src/Farn/FarnPanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="1785">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
->>>>>>> 653ef5ef518463a726738358cc353346a711fce2
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/resources/msgs.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1100,32 +636,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="10" column="31" lean-forward="false" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-=======
-    <entry file="file://$PROJECT_DIR$/src/Farn/Farn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="493">
-          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
->>>>>>> 653ef5ef518463a726738358cc353346a711fce2
           <folding />
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="18" column="54" lean-forward="false" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
-=======
-    <entry file="file://$PROJECT_DIR$/src/snake/SnakePanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2329" max-vertical-offset="4794">
-          <caret line="137" column="32" selection-start-line="135" selection-start-column="3" selection-end-line="138" selection-end-column="5" />
->>>>>>> 653ef5ef518463a726738358cc353346a711fce2
           <folding />
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/resources/spring.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="567">
@@ -1158,34 +680,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="22" column="18" lean-forward="false" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
-=======
-    <entry file="file://$PROJECT_DIR$/src/Farn/FarnPanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="955" max-vertical-offset="1819">
-          <caret line="71" column="26" selection-start-line="71" selection-start-column="26" selection-end-line="71" selection-end-column="26" />
->>>>>>> 653ef5ef518463a726738358cc353346a711fce2
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mysnake/app/SnakeGame.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-=======
-    <entry file="file://$PROJECT_DIR$/src/Farn/Farn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
-          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
->>>>>>> 653ef5ef518463a726738358cc353346a711fce2
           <folding />
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/resources/msgs.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1197,17 +705,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="18" column="54" lean-forward="false" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
-=======
-    <entry file="file://$PROJECT_DIR$/src/snake/SnakePanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2329" max-vertical-offset="4794">
-          <caret line="137" column="32" selection-start-line="135" selection-start-column="3" selection-end-line="138" selection-end-column="5" />
->>>>>>> 653ef5ef518463a726738358cc353346a711fce2
           <folding />
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/resources/spring.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -1230,19 +731,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="22" column="18" lean-forward="false" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
-=======
-    <entry file="file://$PROJECT_DIR$/src/Farn/FarnPanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="445" max-vertical-offset="1819">
-          <caret line="41" column="65" selection-start-line="41" selection-start-column="65" selection-end-line="41" selection-end-column="65" />
->>>>>>> 653ef5ef518463a726738358cc353346a711fce2
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/resources/msgs.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
@@ -1254,42 +748,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="441">
           <caret line="21" column="21" lean-forward="false" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-=======
-    <entry file="file://$PROJECT_DIR$/src/Farn/Farn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
-          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/snake/SnakePanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2329" max-vertical-offset="4794">
-          <caret line="137" column="32" selection-start-line="135" selection-start-column="3" selection-end-line="138" selection-end-column="5" />
->>>>>>> 653ef5ef518463a726738358cc353346a711fce2
-          <folding />
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mysnake/app/view/SnakePanel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2919">
           <caret line="139" column="20" lean-forward="false" selection-start-line="139" selection-start-column="20" selection-end-line="139" selection-end-column="20" />
-=======
-    <entry file="file://$PROJECT_DIR$/src/Farn/FarnPanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="799">
-          <caret line="33" column="43" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
->>>>>>> 653ef5ef518463a726738358cc353346a711fce2
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/resources/spring.xml" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/lang/Enum.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1310,24 +782,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="29" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="30" />
-=======
-    <entry file="file://$PROJECT_DIR$/src/snake/SnakeGame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
-          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/snake/SnakePanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="3080" max-vertical-offset="4692">
-          <caret line="100" column="0" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
->>>>>>> 653ef5ef518463a726738358cc353346a711fce2
           <folding />
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/logging.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
@@ -1353,24 +811,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="693">
           <caret line="33" column="73" lean-forward="false" selection-start-line="33" selection-start-column="73" selection-end-line="33" selection-end-column="73" />
-=======
-    <entry file="file://$PROJECT_DIR$/src/snake/SnakeGame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="544">
-          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/snake/SnakePanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="3182" max-vertical-offset="4505">
-          <caret line="62" column="67" selection-start-line="62" selection-start-column="67" selection-end-line="62" selection-end-column="67" />
->>>>>>> 653ef5ef518463a726738358cc353346a711fce2
           <folding />
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mysnake/app/aspect/SnakeLog.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
@@ -1383,24 +827,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
           <caret line="13" column="97" lean-forward="false" selection-start-line="13" selection-start-column="97" selection-end-line="13" selection-end-column="97" />
-=======
-    <entry file="file://$PROJECT_DIR$/src/snake/SnakeGame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
-          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="24" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Farn/Farn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
-          <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
->>>>>>> 653ef5ef518463a726738358cc353346a711fce2
           <folding />
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mysnake/app/model/Food.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="602">
@@ -1415,42 +845,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="987">
           <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-=======
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/javax/swing/JComponent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="26034" max-vertical-offset="91579">
-          <caret line="1655" column="21" selection-start-line="1655" selection-start-column="21" selection-end-line="1655" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Farn/FarnPanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15144767" vertical-offset="442" max-vertical-offset="1717">
-          <caret line="34" column="20" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
->>>>>>> 653ef5ef518463a726738358cc353346a711fce2
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/resources/spring.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="441">
           <caret line="21" column="57" lean-forward="true" selection-start-line="21" selection-start-column="57" selection-end-line="21" selection-end-column="57" />
-=======
-    <entry file="file://$PROJECT_DIR$/src/snake/SnakePanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.858108" vertical-offset="3641" max-vertical-offset="4590">
-          <caret line="49" column="108" selection-start-line="49" selection-start-column="108" selection-end-line="49" selection-end-column="108" />
->>>>>>> 653ef5ef518463a726738358cc353346a711fce2
           <folding />
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mysnake/app/SnakeGame.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
@@ -1472,42 +880,6 @@
   </component>
   <component name="masterDetails">
     <states>
-=======
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor>
-            <show-content>
-              <type id="artifact" />
-              <type id="library" />
-            </show-content>
-          </artifact-editor>
-          <last-edited>snake</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.5" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
->>>>>>> 653ef5ef518463a726738358cc353346a711fce2
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
           <splitter-proportions>
@@ -1521,11 +893,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-<<<<<<< HEAD
           <last-edited>1.7</last-edited>
-=======
-          <last-edited>1.8</last-edited>
->>>>>>> 653ef5ef518463a726738358cc353346a711fce2
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1535,23 +903,13 @@
           </splitter-proportions>
         </settings>
       </state>
-<<<<<<< HEAD
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
-=======
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>SnakeGame</last-edited>
->>>>>>> 653ef5ef518463a726738358cc353346a711fce2
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-<<<<<<< HEAD
-=======
-                <option value="0.6" />
->>>>>>> 653ef5ef518463a726738358cc353346a711fce2
               </list>
             </option>
           </splitter-proportions>
@@ -1570,9 +928,4 @@
       </state>
     </states>
   </component>
-<<<<<<< HEAD
 </project>
-=======
-</project>
-
->>>>>>> 653ef5ef518463a726738358cc353346a711fce2
