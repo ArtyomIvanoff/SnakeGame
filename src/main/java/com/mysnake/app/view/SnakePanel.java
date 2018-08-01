@@ -1,7 +1,9 @@
 package com.mysnake.app.view;
 
+import com.mysnake.app.dao.MyDaoImpl;
 import com.mysnake.app.model.Food;
 import com.mysnake.app.model.Snake;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.support.AbstractApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
@@ -10,6 +12,7 @@ import java.awt.*;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 import java.awt.geom.Rectangle2D;
+import java.util.List;
 import java.util.Locale;
 import java.util.logging.*;
 import java.io.*;
@@ -17,8 +20,8 @@ import java.io.*;
 // due to issues with proxies for SnakePanel and creating every time the instances of the Snake and Food,
 // it is almost impossible to use the logging in AOP style
 public class SnakePanel extends JPanel implements KeyListener, Runnable {
-    public static int WIDTH = 400;
-    public static int HEIGHT = 400;
+    public static final int WIDTH = 400;
+    public static final int HEIGHT = 400;
     private static int score = 0;
 
     private Snake snake1;
@@ -26,6 +29,16 @@ public class SnakePanel extends JPanel implements KeyListener, Runnable {
     private Thread t;
     private Logger logger;
     private AbstractApplicationContext context;
+
+    private MyDaoImpl myDao;
+    private final String scoreTable = "scores";
+
+    private boolean isHalt = false;
+
+    @Autowired
+    public void setMyDao(MyDaoImpl myDao) {
+        this.myDao = myDao;
+    }
 
     @Override
     public Locale getLocale() {
@@ -59,6 +72,7 @@ public class SnakePanel extends JPanel implements KeyListener, Runnable {
 
         logger = Logger.getLogger(SnakePanel.class.getName());
         logger.log(Level.INFO, "The game is started.");
+
         t = new Thread(this);
         t.start();
     }
@@ -105,6 +119,18 @@ public class SnakePanel extends JPanel implements KeyListener, Runnable {
                         context.getBean("localeRu") :
                         context.getBean("localeEn"));
                 this.setLocale(lc);
+                break;
+
+                // pause the game
+            case KeyEvent.VK_H :
+                isHalt = !isHalt;
+                break;
+
+            // show 3 high scores
+            case KeyEvent.VK_M :
+                List<String> hiscores = myDao.getScores(scoreTable, 3);
+                for(String s : hiscores)
+                    logger.log(Level.INFO, s);
         }
 
         if (!temp.isOpposite(snake1.getTrendHead()))
@@ -124,17 +150,20 @@ public class SnakePanel extends JPanel implements KeyListener, Runnable {
     }
 
     void drawSnake(Graphics2D g2) {
+        Rectangle2D head1 = snake1.getHead();
+        Rectangle2D[] body1 = snake1.getBody();
         g2.setColor(Color.green);
-        g2.fill(snake1.getHead());
-        for (int i = 0; i < snake1.getBody().length; i++)
-            g2.fill(snake1.getBody()[i]);
+        g2.fill(head1);
+        for (int i = 0; i < body1.length; i++)
+            g2.fill(body1[i]);
 
         g2.setColor(Color.red);
         g2.draw(snake1.getHead());
-        for (int i = 0; i < snake1.getBody().length; i++)
-            g2.draw(snake1.getBody()[i]);
+        for (int i = 0; i < body1.length; i++)
+            g2.draw(body1[i]);
 
-        snake1.snakeMove();
+        if(!isHalt)
+            snake1.snakeMove();
     }
 
     void drawFood(Graphics2D g2) {
@@ -173,6 +202,11 @@ public class SnakePanel extends JPanel implements KeyListener, Runnable {
         if (locale == null)
             locale = (Locale) context.getBean("localeEn");
 
+        if (myDao == null) {
+            myDao = context.getBean("myDaoImpl", MyDaoImpl.class);
+            // myDao.createTable(scoreTable);
+        }
+
         // get the necessary prefix of the locale
         String lng = locale.getLanguage() + ".";
 
@@ -198,25 +232,29 @@ public class SnakePanel extends JPanel implements KeyListener, Runnable {
         drawFood(g2);
 
         if (snake1.getHead().intersects(food.getFoodRect())) {
-            food = (Food) context.getBean("food");
+            food.relocate(WIDTH, HEIGHT);
             score++;
             logger.log(Level.INFO, "Eaten the food, score: " + score);
 
             int bodyLength = snake1.getBody().length;
 
             if (score >= 2 * bodyLength - 7)
-                snake1 = new Snake(snake1); // NullPointerException!
+                snake1.grow();
         }
 
         if (isIntersectBody(snake1)) {
             logger.log(Level.INFO, "Snake intersected itself, score: " + score);
-            snake1 = (Snake) context.getBean("snake1");
+            snake1 = context.getBean("snake1", Snake.class);
+            // adding new record to the table
+            myDao.addNewRecordTo(scoreTable, score);
             score = 0;
         }
 
         if (isIntersectEdges(snake1.getHead())) {
             logger.log(Level.INFO, "Snake intersected the edges, score: " + score);
-            snake1 = (Snake) context.getBean("snake1");
+            snake1 = context.getBean("snake1", Snake.class);
+            // adding new record to the table
+            myDao.addNewRecordTo(scoreTable, score);
             score = 0;
         }
     }

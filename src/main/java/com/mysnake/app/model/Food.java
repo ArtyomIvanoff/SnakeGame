@@ -3,11 +3,9 @@ package com.mysnake.app.model;
 import java.awt.*;
 import java.awt.geom.Rectangle2D;
 
-import static com.mysnake.app.view.SnakePanel.HEIGHT;
-import static com.mysnake.app.view.SnakePanel.WIDTH;
-
 public class Food {
     private double x, y;
+    private int size = 10;
 
     public void setX(double x) {
         this.x = x;
@@ -45,6 +43,11 @@ public class Food {
     }
 
     Food(int widthPanel, int heightPanel) {
+        fd = new Rectangle2D.Double();
+        this.relocate(widthPanel, heightPanel);
+    }
+
+    public void relocate(int widthPanel, int heightPanel) {
         x = Math.random() * widthPanel;
         y = Math.random() * heightPanel;
 
@@ -61,6 +64,6 @@ public class Food {
         else if (y > heightPanel - Snake.snakeWidth)
             y = heightPanel - Snake.snakeWidth;
 
-        fd = new Rectangle2D.Double(x, y, 10, 10);
+        fd.setRect(x, y, size, size);
     }
 }

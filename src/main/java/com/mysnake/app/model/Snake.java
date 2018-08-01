@@ -76,16 +76,15 @@ public class Snake {
         trendHead = Trends.EAST;
     }
 
-    public Snake(Snake orig) { //новая змея создается из старой путем добавления к конечной хвостового элемента
-        head = orig.head;
+    public void grow() {
+        int size = body.length;
+        Rectangle2D[] bodyTmp = new Rectangle2D[size+1];
+        for (int i = 0; i < size; i++)
+            bodyTmp[i] = body[i];
 
-        int newLength = orig.body.length + 1; // if we use advices for Snake instance, then we get NullPointerException here!
-        body = new Rectangle2D[newLength];
-        for (int i = 0; i < body.length - 1; i++)
-            body[i] = orig.body[i];
+        bodyTmp[size] = bodyTmp[size-1];
 
-        body[body.length - 1] = body[body.length - 2];
-        trendHead = orig.trendHead;
+        body = bodyTmp;
     }
 
     public void snakeMove() {

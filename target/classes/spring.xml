@@ -4,11 +4,7 @@
        xmlns:aop="http://www.springframework.org/schema/aop"
        xmlns:context="http://www.springframework.org/schema/context"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
-       http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop-2.0.xsd
        http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
-
-    <!-- it lets to use aspects (there are so-called AOP proxies) -->
-    <aop:aspectj-autoproxy proxy-target-class="true"/>
 
 
     <!-- every time when snake intersects itself or comes out of panel, the new instance of it is created -->
@@ -17,7 +13,7 @@
         <constructor-arg name="yS" value="200.0"/>
     </bean>
 
-    <bean id="food" class="com.mysnake.app.model.Food" scope="prototype">
+    <bean id="food" class="com.mysnake.app.model.Food">
         <constructor-arg name="widthPanel" value="400"/>
         <constructor-arg name="heightPanel" value="400"/>
     </bean>
@@ -59,5 +55,26 @@
          so Spring creates automatically beans
          which names are names their classes with the first letter in lower case -->
     <context:component-scan base-package="com.mysnake.app"/>
+
+
+    <!-- this Spring bean configurates the driver and connection to the database
+         Notice that it is used autowiring to set this bean.
+         Class org.springframework.jdbc.datasource.DriverManagerDataSource
+         isn't effective way for connections in real-world applications:
+         there are many classes which are more suitable for it (e.g., Commons DBCP which supports connection pools)-->
+    <bean id="dataSource" class="org.apache.commons.dbcp.BasicDataSource">
+        <property name="driverClassName" value="org.apache.derby.jdbc.ClientDriver"/>
+        <property name="url" value="jdbc:derby:d:\\mvn_test\\my-snake\\src\\main\\resources\\db;create=true"/>
+        <!-- we can also set the username and password if the database requires them -->
+
+        <!-- using Commons DBCP lets us to set some additional properties -->
+        <property name="initialSize" value="3"/>
+        <property name="maxActive" value="7"/>
+    </bean>
+
+    <!-- The DAO Support classes allows to take the common code for all dao classes (look at this class) -->
+    <bean id="myDaoImpl" class="com.mysnake.app.dao.MyDaoImpl">
+        <property name="dataSource" ref="dataSource"/>
+    </bean>
 
 </beans>
